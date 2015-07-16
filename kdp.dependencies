@@ -25,7 +25,7 @@
         "target_path": "hardware/samsung_slsi/exynos5430"
     },
     {	
-		"remote":       "slte",
+		"remote":       "cm",
         "repository": "android_hardware_samsung_slsi_openmax",
         "target_path": "hardware/samsung_slsi/openmax"
     },
